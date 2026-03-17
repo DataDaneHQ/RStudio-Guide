@@ -1,6 +1,6 @@
 ![Guide_Title_Banner](00_Resources/readme_title_banner.png)
 
-# GitHub & RStudio Starter Guide
+<br>
 
 A practical, beginner-friendly guide to version control in RStudio — covering everything from creating your first repository to writing polished R Markdown reports.
 
@@ -74,6 +74,4 @@ GitHub-RStudio-Starter-Guide/
 
 <br>
 
-## About
-
-Created by [DataDaneHQ](https://github.com/DataDaneHQ)
+*Created by [DataDaneHQ](https://github.com/DataDaneHQ)*
