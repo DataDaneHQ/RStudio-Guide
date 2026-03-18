@@ -28,7 +28,7 @@ Built originally as internal team documentation, this guide is designed to get a
 
 If you're new to Git and RStudio, start here:
 
-1. [Create a GitHub repository](01_Documents/Creating_A_Repo.md)
+1. [Create a GitHub repository](01_Documents/Creating_a_Repo.md)
 2. [Link it to an RStudio Project](01_Documents/Accessing_A_Repo.md)
 3. Make your first commit, push, and pull
 
