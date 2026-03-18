@@ -56,7 +56,7 @@ Write a one-sentence summary of what the repo contains. This appears on your Git
 
 Choose who can see your repository.
 
-![screenshot_2](../00_Resources/screenshot_2.png)
+<img src="../00_Resources/screenshot_2.png" alt="screenshot_2" width="500">
 
 | | Public | Private |
 |---|---|---|
@@ -72,7 +72,7 @@ Choose who can see your repository.
 
 Tick the following options before creating your repo.
 
-![screenshot_3](../00_Resources/screenshot_3.png)
+<img src="../00_Resources/screenshot_3.png" alt="screenshot_3" width="500">
 
 **Add a README file** ✅ Recommended
 - Creates a `README.md` in your repo automatically
