@@ -47,7 +47,7 @@ Use this workflow after creating a new repo on GitHub and you're ready to start 
 Once your project is set up, use Pull to keep your local copy in sync with GitHub.
 
 1. Open the project in RStudio
-2. Locate the **Git tab** in the top-right pane (next to Environment)
+2. Locate the **Git tab** in the top-right pane (next to Connections)
 3. Click the blue **Pull** button (down arrow icon)
 
 <img src="../00_Resources/screenshot_7.png" alt="Git pane in RStudio showing Pull button" width="500">
@@ -67,7 +67,7 @@ Use this workflow when you want to work with a repo you don't own — forking cr
 3. GitHub will create a copy under your account
 4. You'll be redirected to your forked repository — the URL will show your username
 
-<img src="../00_Resources/screenshot_8.png" alt="Fork button location on a GitHub repo page" width="700">
+<img src="../00_Resources/screenshot_8.png" alt="Fork button location on a GitHub repo page" width="100%">
 
 <br>
 
