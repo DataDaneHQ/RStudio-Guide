@@ -29,6 +29,10 @@ The remote repository on GitHub contains changes that your local copy doesn't ha
 
 ## Solution
 
+Use the **Terminal** tab in RStudio for the following steps. You can type each command manually or paste using `Ctrl + Shift + V`.
+
+<img src="../00_Resources/screenshot_10.png" alt="Terminal tab in RStudio (username blocked out)" width="100%">
+
 ### 1. Save Your Work Locally
 
 Make sure all current changes are added and committed:
