@@ -50,7 +50,7 @@ Once your project is set up, use Pull to keep your local copy in sync with GitHu
 2. Locate the **Git tab** in the top-right pane (next to Environment)
 3. Click the blue **Pull** button (down arrow icon)
 
-<img src="../00_Resources/screenshot_7.png" alt="Git pane in RStudio showing Pull button" width="100%">
+<img src="../00_Resources/screenshot_7.png" alt="Git pane in RStudio showing Pull button" width="500">
 
 ---
 <br>
