@@ -1,6 +1,5 @@
 <img src="../Resources/Quick_Reference_Guide_Banner.png" alt="Markdown Quick Reference Guide" width="100%">
 
----
 <br>
 
 ## Overview
@@ -32,6 +31,7 @@ A beginner-friendly reference guide to creating and formatting Markdown (`.md`) 
 - [Useful Resources](#useful-resources)
 
 ---
+
 <br>
 
 ## Creating a Markdown File
@@ -49,6 +49,7 @@ A beginner-friendly reference guide to creating and formatting Markdown (`.md`) 
 3. Save with a `.md` extension
 
 ---
+
 <br>
 
 ## Headers
@@ -67,6 +68,7 @@ Use `#` symbols for headers. More `#` symbols = smaller header.
 > Don't skip header levels — move from H1 to H2 to H3 in order. Skipping levels (e.g. H1 → H3) breaks document structure and accessibility.
 
 ---
+
 <br>
 
 ## Text Formatting
@@ -87,6 +89,7 @@ Use `#` symbols for headers. More `#` symbols = smaller header.
 | `~~Strikethrough~~` | ~~Strikethrough~~ |
 
 ---
+
 <br>
 
 ## Line Breaks
@@ -110,6 +113,7 @@ This is line two.
 > Pressing Enter once won't create a visible line break — text will flow together. You need either two trailing spaces or `<br>`.
 
 ---
+
 <br>
 
 ## Lists
@@ -152,6 +156,7 @@ This is line two.
 > Be consistent — pick one bullet style (`*` or `-`) and stick with it throughout your document.
 
 ---
+
 <br>
 
 ## Links
@@ -164,6 +169,7 @@ This is line two.
 [Link text](https://www.example.com)
 
 ---
+
 <br>
 
 ## Images
@@ -182,6 +188,7 @@ This is line two.
 > Always write descriptive alt text — it improves accessibility and appears if the image fails to load. For GitHub docs, 600–750px width works well for screenshots.
 
 ---
+
 <br>
 
 ## Code
@@ -214,6 +221,7 @@ mean(x)
 **Supported languages:** `r`, `python`, `javascript`, `html`, `css`, `bash`, `sql` and many more.
 
 ---
+
 <br>
 
 ## Blockquotes
@@ -233,6 +241,7 @@ Use `>` for blockquotes:
 > It can also have multiple paragraphs.
 
 ---
+
 <br>
 
 ## Horizontal Rules
@@ -243,6 +252,7 @@ Create a dividing line with three or more dashes:
 ````
 
 ---
+
 <br>
 
 ## Tables
@@ -276,6 +286,7 @@ Create a dividing line with three or more dashes:
 | `---:` | Right |
 
 ---
+
 <br>
 
 ## Task Lists
@@ -291,6 +302,7 @@ Create a dividing line with three or more dashes:
 - [ ] Another incomplete task
 
 ---
+
 <br>
 
 ## Table of Contents
@@ -322,6 +334,7 @@ Markdown automatically creates anchor links for all headers. Use these to build 
 > When in doubt about an anchor name, click the header on GitHub and check the URL — that's the exact anchor. Use a table of contents for documents with 7 or more sections.
 
 ---
+
 <br>
 
 ## GitHub-Specific Features
@@ -364,6 +377,7 @@ These features are supported on GitHub but may not render in RStudio's preview p
 > Advises about risks or negative outcomes.
 
 ---
+
 <br>
 
 ### Emoji
@@ -378,6 +392,7 @@ GitHub supports emoji shortcodes:
 [Full emoji list](https://github.com/ikatyang/emoji-cheat-sheet)
 
 ---
+
 <br>
 
 ## Best Practices
@@ -391,6 +406,7 @@ GitHub supports emoji shortcodes:
 7. **Specify code languages** — always declare the language in code blocks for syntax highlighting
 
 ---
+
 <br>
 
 ## Common Mistakes
@@ -405,6 +421,7 @@ GitHub supports emoji shortcodes:
 ````
 
 ---
+
 <br>
 
 ❌ **Missing blank lines between elements**
@@ -420,6 +437,7 @@ Text with proper spacing below.
 ````
 
 ---
+
 <br>
 
 ❌ **Wrong indentation for sub-lists**
@@ -434,6 +452,7 @@ Text with proper spacing below.
 ````
 
 ---
+
 <br>
 
 ❌ **Skipping header levels**
@@ -449,6 +468,7 @@ Text with proper spacing below.
 ````
 
 ---
+
 <br>
 
 ## Quick Reference Table
@@ -473,6 +493,7 @@ Text with proper spacing below.
 | Table | `\| col \| col \|` |
 
 ---
+
 <br>
 
 ## Useful Resources
@@ -483,6 +504,7 @@ Text with proper spacing below.
 - [Emoji Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet)
 
 ---
+
 <br>
 
 *[README](../README.md)*
