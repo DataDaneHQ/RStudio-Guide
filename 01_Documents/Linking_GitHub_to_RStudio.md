@@ -4,7 +4,7 @@
 
 ## Overview
 
-This guide walks you through linking a GitHub repository to RStudio so you can work with it locally using version control. It covers three scenarios — cloning your own repo, forking someone else's, and downloading files without version control.
+This guide walks you through linking a GitHub repository to RStudio so you can work with it locally using version control. It covers three scenarios — [cloning](#cloning-your-own-repository) your own repo, [forking](#forking-someone-elses-repository) someone else's, and [downloading files](#just-want-to-view-the-files) without version control.
 
 > [!IMPORTANT]
 > If the repository is private, you must be added as a collaborator before you can clone it. If you receive an authentication error, contact the repository owner to request access.
