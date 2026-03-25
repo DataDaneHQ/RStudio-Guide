@@ -138,4 +138,4 @@ git commit -m "Remove tracked files now covered by gitignore"
 
 <br>
 
-*← [Incorrect IP Address](02-Incorrect_IP_Address.md) · [README](../README.md)*
+*← [Incorrect IP Address](Troubleshooting_Incorrect_IP_Address.md) · [README](../README.md)*
