@@ -60,11 +60,6 @@ folder_name/file.html
 # Ignore an entire folder
 folder_name/
 
-# Ignore an entire folder but keep specific files
-folder_name/*
-!folder_name/keep_this.txt
-!folder_name/keep_that.R
-
 # Ignore a file type everywhere in the repo
 *.csv
 *.xlsx
@@ -125,7 +120,7 @@ git commit -m "Remove tracked files now covered by gitignore"
 |---|---|
 | `file.html` | Ignores a specific file |
 | `folder_name/` | Ignores an entire folder |
-| `folder_name/*` | Ignores folder contents but keeps structure |
+| `folder_name/*` | Ignores folder contents, allows exceptions with `!` |
 | `!folder_name/file.txt` | Un-ignores a specific file |
 | `*.csv` | Ignores all files of that type |
 | `git rm --cached file` | Stops tracking an already committed file |
