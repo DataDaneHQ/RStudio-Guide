@@ -44,31 +44,9 @@ The guide assumes basic familiarity with R and RStudio but no prior Git experien
 |---|---|
 | Git push errors | [01 — Git Push Troubleshooting](01_Documents/Troubleshooting_Git_Push.md) |
 | Incorrect IP address error | [02 — Incorrect IP Address](01_Documents/Troubleshooting_Incorrect_IP_Address.md) |
-| `.gitignore` tips | [03 — Gitignore Tips](01_Documents/Troubleshooting_gitignore.md) |
-| Accessing linked documents | [04 — Accessing Documents](01_Documents/04-Accessing_Documents.md) |
+| `.gitignore` tips | [03 — Gitignore Tips](01_Documents/Troubleshooting_Gitignore.md) |
+| Accessing linked documents | [04 — Accessing Documents](01_Documents/Troubleshooting_Accessing_Documents.md) |
 | Git tab not visible in RStudio | Tools → Project Options → Git/SVN → set Version Control to **Git** |
-
----
-
-<br>
-
-## Repository Structure
-```
-GitHub-RStudio-Starter-Guide/
-├── Documents/
-│   ├── Creating_A_Repo.md
-│   ├── Accessing_A_Repo.md
-│   ├── Quick_Reference_Guide.md
-│   ├── 01-Get_Push_Troubleshooting.md
-│   ├── 02-Incorrect_IP_Address.md
-│   ├── 03-Gitignore_Tips.md
-│   └── 04-Accessing_Documents.md
-├── Scripts/
-│   └── report_template.Rmd
-├── Resources/
-│   └── readme_title_banner.png
-└── README.md
-```
 
 ---
 
